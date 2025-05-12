@@ -20,16 +20,27 @@ CSS部分使用SCSS去撰寫，這樣可以像HTML結構一樣，巢狀撰寫 CS
 -----------------------------------
 
 另外是針對我曾在網路上學習時，實作練習出來的專案做介紹，
+
 其中:
+
 ・使用到 async/await 讓非同步變成同步
+
 ・計算網頁捲軸是否滑到最底，像FB那樣繼續渲染資料出來
+
 ・製作 404 畫面
+
 ・使用 axios 練習打 API 拿資料，再渲染到畫面上
+
 ・針對網址部分，練習使用 window.location.search 取得 query 參數
+
 ・TypeScript 用 type 定義型別的練習 & 給 JS 的型態加上了 TS 的型別
+
 ・CSS 使用 position 控制元素定位方式 & 利用 opacity 特性, 點擊到時候顯示內容
+
 ・CSS 使用 @keyframes 搭配 animation 讓動畫重複播放
+
 ・使用 Bootstrap 撰寫響應式網站 & RWD 練習
+
 ・JQuery 撰寫練習
 
 ![image](https://github.com/user-attachments/assets/88313a3e-f60e-4b11-b36d-c923bbae51c1)
