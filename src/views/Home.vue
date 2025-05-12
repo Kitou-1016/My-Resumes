@@ -62,7 +62,7 @@ const otherSkills = [
 <template>
   <section class="introduce">
     <div class="my_photo">
-      <img id="photo" src="../assets/img/CHANG TINGWEI.jpg" alt="" />
+      <img id="photo" src="../assets/img/CHANG-TINGWEI.jpg" alt="" />
       <p class="name">張庭瑋<span class="age">30歲</span></p>
       <p>畢業學校: 吳鳳科技大學</p>
       <p>手機: 0975-101096</p>
